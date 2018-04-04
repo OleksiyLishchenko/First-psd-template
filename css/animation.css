@@ -1,0 +1,16 @@
+@keyframes slideLeft{
+	from{
+		left: -300px;
+	}
+	to{
+		left: 0;
+	}
+}
+@keyframes mainLeft{
+	from{
+		margin-left: 300px;
+	}
+	to{
+		margin-left: 0;
+	}
+}
